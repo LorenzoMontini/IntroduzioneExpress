@@ -1,0 +1,22 @@
+{
+  "name": "introduzioneexpress",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LorenzoMontini/IntroduzioneExpress.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LorenzoMontini/IntroduzioneExpress/issues"
+  },
+  "homepage": "https://github.com/LorenzoMontini/IntroduzioneExpress#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

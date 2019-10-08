@@ -1,0 +1,15 @@
+01.0:
+  1: per creare un file package.json per l’applicazione
+  2: serve a specificare il file principale
+  3: è un file che contiene le info del comandi init
+  4: serve per installare i moduli (ad esempio express)
+  5: per specificare le librerie di cui ho bisogno, come express
+  6: per prendere la directory dall'url
+  7: per specificare la porta dove siamo in ascolto
+  8: necessita dell'url da dove prendere la directory, REQuest e RESponse che sono le funzioni che eseguiamo dopo la GET  
+  9: RESponse, risposta10: per inviare un file o una scritta, nel nostro caso 'Hello-world'
+
+01.1:
+  1: serve per specificare il file da inviare
+  2: si
+  3: per specificare quale file si vuole
